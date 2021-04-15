@@ -1,0 +1,19 @@
+p {
+    color: blueviolet;
+}
+b {
+    color: black;
+}
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: chocolate;
+    overflow: hidden;
+}
+nav li{
+    display: block;
+    color: cyan;
+    padding: 0;
+    text-decoration: darkorange;
+}
